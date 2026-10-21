@@ -240,4 +240,4 @@ This repository serves as the official landing page for The Pinball Arcade. The 
 **Get the most recent version of The Pinball Arcade today!**
 
 ---
-**Last updated:** 2026-10-21 19:49:04 UTC
+**Last updated:** 2026-10-21 22:55:30 UTC
